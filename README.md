@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Ahmet</h1>
 - 🌱 I’m currently learning Full-stack .Net Core Developer Bootcamp From Patika.dev
 
-- 💬 Ask me about **C#, HTML, CSS, ASP.NET Core MVC**
+- 💬 Ask me about **C#, HTML, CSS, ASP.NET Core MVC, JavaScript, React.js**
 
 - 📫 How to reach me **ahmet.sulu1993@gmail.com**
 
